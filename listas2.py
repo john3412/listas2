@@ -1,7 +1,7 @@
 # Nombre del programa: listas2
 # Descripción: Programa que determina el mayor y menor de 5 números ingresados por el usuario, además de determinar si hay valores repetidos.
 # Autor: Jonathan López Ayala
-# Fecha: 30/11/2025
+# Fecha: 30/01/2025
 
 import os
 
